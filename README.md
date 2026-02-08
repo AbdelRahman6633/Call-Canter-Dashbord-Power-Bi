@@ -15,16 +15,22 @@ Interactive Power BI dashboard for Call Center performance analysis. Tracks CSAT
 ## لقطات شاشة من الـ Dashboard
 
 ###Home page 
+(main-dashboard.png)
 
 ###KPI Avg CSAT Score 'Year'
+(KPI-Avg-CSAT-Score-Year.png)
 
 ###KPI-Avg-Call-Duration
+(KPI-Avg-Call-Duration.png)
 
 ###Customer dissatisfaction and satisfaction with each communication channel
+(dissatisfaction-and-satisfaction.png)
 
 ###The best communication channel that consumes the least amount of time
+(Less-time-consumption.png)
 
 ###The best channel has the best response time.
+(response-time.png)
 
 ## كيفية استخدام المشروع
 1. قم بتنزيل ملف الـ *.pbix* من الريبو
