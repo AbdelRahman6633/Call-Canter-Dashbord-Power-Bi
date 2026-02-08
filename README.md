@@ -12,25 +12,25 @@ Interactive Power BI dashboard for Call Center performance analysis. Tracks CSAT
 - أكثر أسباب المكالمات شيوعًا
 - مقارنة بين قنوات التواصل (Phone, Email, Chatbot, Web ...)
 
-## لقطات شاشة من الـ Dashboard
+## لقطات من الـ Dashboard
 
-###Home page 
-(main-dashboard.png)
+### الصفحة الرئيسية (Home Page)
+![Home Page - نظرة عامة على الـ Dashboard](screenshots/main-dashboard.png)
 
-###KPI Avg CSAT Score 'Year'
-(KPI-Avg-CSAT-Score-Year.png)
+### متوسط درجة رضا العملاء (Avg CSAT Score - Year)
+![KPI - متوسط CSAT Score على مستوى السنة](screenshots/KPI-Avg-CSAT-Score-Year.png)
 
-###KPI-Avg-Call-Duration
-(KPI-Avg-Call-Duration.png)
+### متوسط مدة المكالمة (Avg Call Duration)
+![KPI - متوسط مدة المكالمة مقارنة بالهدف](screenshots/KPI-Avg-Call-Duration.png)
 
-###Customer dissatisfaction and satisfaction with each communication channel
-(dissatisfaction-and-satisfaction.png)
+### رضا العملاء وعدم الرضا حسب قنوات التواصل
+![تحليل الرضا وعدم الرضا حسب القنوات](screenshots/dissatisfaction-and-satisfaction.png)
 
-###The best communication channel that consumes the least amount of time
-(Less-time-consumption.png)
+### أقل قناة تستهلك وقت
+![أقل قناة استهلاكًا للوقت](screenshots/Less-time-consumption.png)
 
-###The best channel has the best response time.
-(response-time.png)
+### أفضل قناة من حيث وقت الاستجابة (Response Time)
+![أفضل قناة في وقت الاستجابة](screenshots/response-time.png)
 
 ## كيفية استخدام المشروع
 1. قم بتنزيل ملف الـ *.pbix* من الريبو
