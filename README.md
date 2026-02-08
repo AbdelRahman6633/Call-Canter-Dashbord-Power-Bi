@@ -12,25 +12,25 @@ Interactive Power BI dashboard for Call Center performance analysis. Tracks CSAT
 - أكثر أسباب المكالمات شيوعًا
 - مقارنة بين قنوات التواصل (Phone, Email, Chatbot, Web ...)
 
-## لقطات من الـ Dashboard
+## الداشبورد الرئيسي
 
 ### الصفحة الرئيسية (Home Page)
-![Home Page - نظرة عامة على الـ Dashboard](screenshots/main-dashboard.png)
+![الداشبورد الرئيسي](main-dashboard.png)
 
 ### متوسط درجة رضا العملاء (Avg CSAT Score - Year)
-![KPI - متوسط CSAT Score على مستوى السنة](screenshots/KPI-Avg-CSAT-Score-Year.png)
+![الداشبورد الرئيسي](KPI-Avg-CSAT-Score-Year.png)
 
 ### متوسط مدة المكالمة (Avg Call Duration)
-![KPI - متوسط مدة المكالمة مقارنة بالهدف](screenshots/KPI-Avg-Call-Duration.png)
+![الداشبورد الرئيسي](KPI-Avg-Call-Duration.png)
 
 ### رضا العملاء وعدم الرضا حسب قنوات التواصل
-![تحليل الرضا وعدم الرضا حسب القنوات](screenshots/dissatisfaction-and-satisfaction.png)
+![الداشبورد الرئيسي](dissatisfaction-and-satisfaction.png)
 
 ### أقل قناة تستهلك وقت
-![أقل قناة استهلاكًا للوقت](screenshots/Less-time-consumption.png)
+![الداشبورد الرئيسي](Less-time-consumption.png)
 
 ### أفضل قناة من حيث وقت الاستجابة (Response Time)
-![أفضل قناة في وقت الاستجابة](screenshots/response-time.png)
+![الداشبورد الرئيسي](response-time.png)
 
 ## كيفية استخدام المشروع
 1. قم بتنزيل ملف الـ *.pbix* من الريبو
@@ -39,10 +39,12 @@ Interactive Power BI dashboard for Call Center performance analysis. Tracks CSAT
 
 ## الملفات المهمة
 - Call Center Dashboard.pbix ← الملف الرئيسي للتقرير
-- مجلد screenshots/ ← لقطات شاشة للصفحات المختلفة
+-  لقطات شاشة للصفحات المختلفة مثل: 
+main-dashboard, response-time, dissatisfaction-and-satisfaction, KPI-Avg-Call-Duration, KPI-Avg-CSAT-Score-Year, Less-time-consumption
+
 
 ## ملاحظات
 - البيانات المستخدمة وهمية / anonymized
-- تم بناء الـ dashboard باستخدام DAX measures و visuals متنوعة (KPI, Cards, Bar charts, Treemap ...)
+- تم بناء الـ dashboard باستخدام DAX measures و visuals متنوعة (KPI, Cards, Bar charts,  ...)
 
-Made with ❤️ in Egypt
+جزء من بورتفوليو خاص بي 
